@@ -1,0 +1,21 @@
+@media (max-width:1200px) {
+    .variants{
+        margin-top: 20px;
+    }
+}
+@media (max-width:992px) {
+    
+}
+@media (max-width:768px) {
+    .header__bottom{
+        position: relative;
+    }
+    .header__info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (max-width:576px) {
+    
+}
